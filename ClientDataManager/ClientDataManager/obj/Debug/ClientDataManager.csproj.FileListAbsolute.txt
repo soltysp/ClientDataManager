@@ -1,0 +1,14 @@
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\bin\Debug\ClientDataManager.exe.config
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\bin\Debug\ClientDataManager.exe
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\bin\Debug\ClientDataManager.pdb
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\obj\Debug\ClientDataManager.csprojResolveAssemblyReference.cache
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\obj\Debug\MainWindow.g.cs
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\obj\Debug\App.g.cs
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\obj\Debug\ClientDataManager_MarkupCompile.cache
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\obj\Debug\ClientDataManager_MarkupCompile.lref
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\obj\Debug\MainWindow.baml
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\obj\Debug\ClientDataManager.g.resources
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\obj\Debug\ClientDataManager.Properties.Resources.resources
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\obj\Debug\ClientDataManager.csproj.GenerateResource.Cache
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\obj\Debug\ClientDataManager.exe
+c:\users\paulina\documents\visual studio 2015\Projects\ClientDataManager\ClientDataManager\obj\Debug\ClientDataManager.pdb
